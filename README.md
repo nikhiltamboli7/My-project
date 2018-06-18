@@ -6,7 +6,7 @@
 
 # 1. Speech to Text Conversion
 # 2. Storing same Speech as Text file
-# 3. Recordiing of same Speech as .mp3
+# 3. Recording of same Speech as .mp3
 # 4. Read the Speech from same Text file
 
 
